@@ -173,10 +173,10 @@ public class App {
 
 		System.out.println("*******************MENU*****************");
 		System.out.println(" " + OP_LISTAR + ".- Listar");
-		System.out.println(" " + OP_CREAR + ".- Crear un Cliente ");
-		System.out.println(" " + OP_MODIFICAR + ".- Editar un Cliente");
-		System.out.println(" " + OP_BUSCAR_ID + ".- Buscar Cliente por Id ");
-		System.out.println(" " + OP_ELIMINAR + ".- Dar de baja un Cliente ");
+		System.out.println(" " + OP_CREAR + ".- Crear");
+		System.out.println(" " + OP_MODIFICAR + ".- Editar");
+		System.out.println(" " + OP_BUSCAR_ID + ".- Buscar ");
+		System.out.println(" " + OP_ELIMINAR + ".- Dar de baja");
 		System.out.println(" ");
 		System.out.println(" " + OP_SALIR + " - Salir");
 		System.out.println("************************************");
